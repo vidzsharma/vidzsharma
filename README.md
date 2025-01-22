@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vidzsharma
-- 👀 I’m interested in atlan fellowship 
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on-site
 
